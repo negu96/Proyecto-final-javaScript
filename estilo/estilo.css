@@ -1,0 +1,14 @@
+body{
+    display: flex;}
+
+.letra {
+    height: 50px;
+    width: 50px;
+    border: 3px solid rgb(12, 128, 182);
+    text-align: center;
+    margin: 4px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#palabra{display: flex;}
